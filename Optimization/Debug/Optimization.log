@@ -1,0 +1,14 @@
+﻿  Opt.cpp
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(25,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(399,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(408,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(408,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(409,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(409,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(410,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(410,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(411,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(411,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(514,1): warning C4297: MyApp::~MyApp: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\MicrosoftVisualStudio\source\repos\Optimization\Optimization\Opt.cpp(514,1): message : деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+  Optimization.vcxproj -> D:\MicrosoftVisualStudio\source\repos\Optimization\Debug\Optimization.exe
